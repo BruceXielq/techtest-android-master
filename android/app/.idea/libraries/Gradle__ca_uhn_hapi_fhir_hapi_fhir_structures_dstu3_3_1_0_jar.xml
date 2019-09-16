@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ca.uhn.hapi.fhir:hapi-fhir-structures-dstu3:3.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3/3.1.0/3f48a0b22bdab8835a685c912363eb0c812c81b9/hapi-fhir-structures-dstu3-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3/3.1.0/5895b7f5450535e9cfd5f20260fcf172c89f6d2c/hapi-fhir-structures-dstu3-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3/3.1.0/21444b2740377541b301f25d8d56299189358f72/hapi-fhir-structures-dstu3-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

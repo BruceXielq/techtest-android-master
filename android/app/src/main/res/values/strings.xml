@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">eHealth Innovation Android Tech Test</string>
+    <string-array name="array_technology">
+        <item>Patient A ## M ## July 08, 2019</item>
+        <item>Patient B</item>
+        <item>Patient C</item>
+        <item>Patient D</item>
+        <item>Patient E</item>
+        <item>Patient F</item>
+        <item>Patient G</item>
+        <item>Patient H</item>
+        <item>Patient I</item>
+        <item>Patient J</item>
+    </string-array>
+    <string name="title_activity_patient_details">Patient Details</string>
 </resources>

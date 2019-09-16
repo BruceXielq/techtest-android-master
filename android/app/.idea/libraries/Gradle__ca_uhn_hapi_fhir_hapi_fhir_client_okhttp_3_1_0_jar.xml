@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ca.uhn.hapi.fhir:hapi-fhir-client-okhttp:3.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp/3.1.0/913b80c8eb82c188dea29a54847d1c5800ac0d14/hapi-fhir-client-okhttp-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp/3.1.0/37251e28df3dedd0e17e08c0d22ff25a672bf058/hapi-fhir-client-okhttp-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-client-okhttp/3.1.0/95fc4ffd530c713d8877b15118d52ee710e4cdbb/hapi-fhir-client-okhttp-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

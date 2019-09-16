@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="61dp"
+        android:layout_toRightOf="@+id/textViewName"
+        android:ems="10" />
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editTextName"
+        android:layout_alignBottom="@+id/editTextName"
+        android:layout_alignParentLeft="true"
+        android:text="Patient Name:" />
+
+    <EditText
+        android:id="@+id/editTextGender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_below="@+id/editTextName"
+        android:layout_marginTop="61dp"
+        android:layout_toRightOf="@+id/textViewGender"
+        android:ems="10" />
+    <TextView
+        android:id="@+id/textViewGender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editTextGender"
+        android:layout_alignBottom="@+id/editTextGender"
+        android:layout_alignParentLeft="true"
+        android:text="Enter Gender:" />
+    <EditText
+        android:id="@+id/editTextBirthDay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_below="@+id/editTextGender"
+        android:layout_marginTop="61dp"
+        android:layout_toRightOf="@+id/textViewBirthDay"
+        android:ems="10" />
+    <TextView
+        android:id="@+id/textViewBirthDay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editTextBirthDay"
+        android:layout_alignBottom="@+id/editTextBirthDay"
+        android:layout_alignParentLeft="true"
+        android:text="Enter Birth Day:" />
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextBirthDay"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:text="Update"
+        android:onClick="updatePatient"/>
+    <Button
+        android:id="@+id/buttonClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonUpdate"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:text="Close"
+        android:onClick="closePatientDetails"/>
+
+</RelativeLayout>
